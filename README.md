@@ -3,6 +3,9 @@ dbt-core
 dbt-snowflake
 pandas
 
+Robert Smith Santos Grullon 
+2021-0956
+
 Descripción general:
 Esta guía demuestra cómo crear canales de ingeniería de datos robustos utilizando Apache Airflow para orquestar flujos de trabajo, Snowflake para el almacenamiento y procesamiento de datos, Snowpark para transformaciones escalables basadas en Python y dbt para administrar modelos de datos.
 
